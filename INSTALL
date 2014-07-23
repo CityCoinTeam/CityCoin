@@ -1,0 +1,4 @@
+Building CityCoin
+See doc/readme-qt.rst for instructions on building CityCoin QT.
+
+See doc/build-*.txt for instructions on building CityCoind.
